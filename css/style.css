@@ -381,5 +381,9 @@ body.lock {
   }
   .subcontent-wrapper__container {
     margin-top: 20px;
+    
+  }
+  .suncontent-conteiner {
+    margin-left: 0;
   }
 }
